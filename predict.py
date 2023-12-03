@@ -6,6 +6,7 @@ from PIL import Image
 import argparse
 import json
 
+
 # Constants
 BATCH_SIZE = 32
 IMAGE_SIZE = 224
